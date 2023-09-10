@@ -1,2 +1,2 @@
-# Create HXRO Dex
-Create Hxro Dex with one command
+# HXRODex Scaffold
+Scaffold for building HXRO Dexterity Protocol Applications
